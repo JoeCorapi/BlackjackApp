@@ -121,6 +121,11 @@ def new_game():
 def shuffle():
     random.shuffle(deck)
 
+
+def joe():
+    print("Joe says hello")
+
+
 mainWindow = tkinter.Tk()
 
 # Set up the screen and frames for the dealer and player
